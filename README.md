@@ -1,5 +1,7 @@
 # 🎨Bash Colorizer
 
+_Note: I cannot guarentee the security of this, that is on the horizon_
+
 ### Build
 `$ make`
 
